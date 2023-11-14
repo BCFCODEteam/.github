@@ -17,7 +17,7 @@ BCFCODEteam is not just a place to code; it's a revolution. A revolution that ce
 
 <p align="center">
   <a href="https://github.com/BCFCODE">
-    <img src="assets/BCFCODE-LOGO.png" alt="BCFCODE LOGO">
+    <img src="../assets/BCFCODE-LOGO.png" alt="BCFCODE LOGO">
   </a>
 </p>
 
