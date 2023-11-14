@@ -11,8 +11,6 @@ Innovation Elevation: Elevate your skills and thinking to new heights. Collabora
 🤝 Join the Revolution:
 BCFCODEteam is not just a place to code; it's a revolution. A revolution that celebrates diversity, creativity, and the unyielding spirit of tech enthusiasts. Your journey to greatness begins here, among the brightest minds and the most ambitious projects.
 
-BCFCODE LOGO
-
 Ready to redefine the future? BCFCODEteam is calling. Let's code the extraordinary! 🌐✨
 Here is the list of developers on our team:
 Front-End Developers:
