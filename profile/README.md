@@ -26,7 +26,6 @@ BCFCODEteam is not just a place to code; it's a revolution. A revolution that ce
 
 Front-End Developers:
 - <a href="https://www.linkedin.com/in/morteza-bakhshandeh-813598260/" style="color: yellow;">Morteza Bakhshandeh</a>
-- <a href="https://www.linkedin.com/in/majid-babak-aab039156/" style="color: yellow;">Majid Babak</a>
 
 # [©BCFCODEteam](https://github.com/BCFCODE)
 [Join our Telegram channel](https://t.me/BCFCODE) | [Follow on Instagram](https://www.instagram.com/bcfcodeteam/?igshid=MzRlODBiNWFlZA%3D%3D)
