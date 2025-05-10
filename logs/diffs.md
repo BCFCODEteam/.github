@@ -27,11 +27,6 @@ index 335dd86..cbc8837 100644
  <p align="center">
 -  <a href="https://github.com/BCFCODE">
 -    <img src="assets/BCFCODE-LOGO.png" alt="BCFCODE LOGO">
-+  <a href="./assets/BCFCODE%20LOGO%20motion.mp4">
-+    <img src="./assets/BCFCODE LOGO.jpg" alt="Play BCFCODE Motion Video" />
-+    <br/>
-+    🎬 Click to Watch Our Motion Logo Video
-   </a>
  </p>
  
  ### Ready to redefine the future? BCFCODEteam is calling. Let's code the extraordinary! 🌐✨
