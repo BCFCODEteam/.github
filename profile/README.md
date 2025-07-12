@@ -12,21 +12,25 @@ Innovation Elevation: Elevate your skills and thinking to new heights.
 Collaboration Hub: Connect with a community that thrives on collaboration and shared success.
 Impactful Coding: Code with purpose. Every project, every line matters.
 Tech Renaissance: Experience a renaissance of technology where creativity knows no bounds.
-### 🤝 Join the Revolution:
-BCFCODEteam is not just a place to code; it's a revolution. A revolution that celebrates diversity, creativity, and the unyielding spirit of tech enthusiasts. Your journey to greatness begins here, among the brightest minds and the most ambitious projects.
+---
+
+### 🤝 Get Involved
+BCFCODE is a thriving community for coding enthusiasts. Join us to code, collaborate, and grow together.
 
 <p align="center">
   <a href="https://github.com/BCFCODEteam">
-    <img src="../assets/BCFCODE-LOGO.png" alt="BCFCODE LOGO">
+    <img src="https://res.cloudinary.com/ds8pptoh2/image/upload/v1747825921/BCFCODE-LOGO_vtfegn.jpg" alt="BCFCODE LOGO">
   </a>
 </p>
 
-### Ready to redefine the future? BCFCODEteam is calling. Let's code the extraordinary! 🌐✨
-# Here is the list of developers on our team:
+### Ready to make an impact? Join BCFCODE and start coding!
 
-Front-End Developers:
-- <a href="https://www.linkedin.com/in/morteza-bakhshandeh-813598260/" style="color: yellow;">Morteza Bakhshandeh</a>
-- <a href="https://www.linkedin.com/in/majid-babak-aab039156/" style="color: yellow;">Majid Babak</a>
+# Our Developers:
 
-# [©BCFCODEteam](https://github.com/BCFCODE)
-[Join our Telegram channel](https://t.me/BCFCODE) | [Follow on Instagram](https://www.instagram.com/bcfcodeteam/?igshid=MzRlODBiNWFlZA%3D%3D)
+### Team Members:
+- [Morteza Bakhshandeh](https://bakhshandehmorteza.ir/)
+- Adib Khaki
+
+# [© BCFCODE](https://www.bcfcode.ir/)
+
+[Join our Telegram](https://t.me/BCFCODE) | [Follow us on X](https://x.com/bcfcode)
